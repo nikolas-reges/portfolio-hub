@@ -33,4 +33,4 @@ Git, GitHub, GitHub Pages, HTML, CSS, Markdown.
 - `v1.1`: seção de projetos e documentação
 
 ## 👤 Autor
-**Nikolas Reges** · [GitHub](https://github.com/nikolas-reges) · [LinkedIn](COLE-SEU-LINK-AQUI)
+**Nikolas Reges** · [GitHub](https://github.com/nikolas-reges) · [LinkedIn](https://www.linkedin.com/in/nikolas-reges-cyber/)
